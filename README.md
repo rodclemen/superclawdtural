@@ -17,7 +17,7 @@
   <a href="https://github.com/rodclemen/clawd-clash"><img src="https://img.shields.io/badge/part%20of-Clawd%20Clash-8A2BE2" alt="Part of Clawd Clash"></a>
 </p>
 
-<!-- The trailer: the 720p copy (promo/720p/Superclawdtural.mp4 in Clawd Clash) goes here once it's uploaded to GitHub. -->
+https://github.com/user-attachments/assets/cdd105eb-1056-415e-b5bc-9cce6e1ae66a
 
 <p align="center"><sub>🔊 <b>Click the speaker in the player for sound</b>: GitHub starts videos muted. Full 1080p version: <a href="promo/superclawdtural-promo.mp4">promo/superclawdtural-promo.mp4</a></sub></p>
 
