@@ -160,7 +160,7 @@ The window can show the same view, and **Random** location moves the window some
 
 Superclawdtural is part of **[Clawd Clash](https://github.com/rodclemen/clawd-clash)**, one app with multiple universes. It needs macOS 13+ and at least one of the [AIs and harnesses it supports](https://github.com/rodclemen/clawd-clash#supported-ais-and-harnesses).
 
-It's coming in Clawd Clash 4.1.0. With Homebrew:
+It comes with Clawd Clash 4.1.0 and later. With Homebrew:
 
 ```sh
 brew tap rodclemen/tap

@@ -2,7 +2,7 @@
 
 The changes you'd notice in the Superclawdtural universe, newest first. The full, detailed history (every fix, every version) lives in [Clawd Clash](https://github.com/rodclemen/clawd-clash).
 
-## Coming in Clawd Clash 4.1.0
+## Clawd Clash 4.1.0 (2026-10-25)
 
 - **A new universe.** Superclawdtural joins Star Clawds, Marvelous Clawds, Detective Clawds, Doctor Clawd, The Clawd Files, Stevie Clawdberg, Clawd of the Rings, Clawd Slayer and Stranger Clawds: pick it in **Settings → Universe**, or in the screen saver's Options.
 - **79 characters from all fifteen seasons of Supernatural**, most with a signature move. Dean's cherry pie, Sam's laptop, Clawdstiel's wing shadows, Bobby's flask of holy water, Ellen racking her shotgun, Jo's knife in the bullseye, Garth's sock puppet Mr. Fizzles, Charlie crowned Queen of Moondoor, Rowena's hex bag and Death's chili dog. Facing them, Clawdley's snap and his hellhound's shadow, Azazel's yellow eyes, Meg's black ones, Abaddon's fist, Lucifer and the archangels, Demon Dean's karaoke, Dick Roman's Leviathan grin, Chuck's guitar, Gordon honing his machete and the monsters of the week. HEM turns up as a hunter with a sawn-off shotgun loaded with rock salt.
